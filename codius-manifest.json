@@ -1,0 +1,10 @@
+{
+  "name": "example-require",
+  "apis": [
+    "fs"
+  ],
+  "main": "contract.js",
+  "modules": [
+    "myexample"
+  ]
+}
