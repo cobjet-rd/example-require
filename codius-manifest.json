@@ -6,5 +6,8 @@
   "main": "contract.js",
   "modules": [
     "myexample"
+  ],
+  "files": [
+    "example.js"
   ]
 }
