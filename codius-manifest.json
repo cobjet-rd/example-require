@@ -8,6 +8,8 @@
     "myexample"
   ],
   "files": [
-    "example.js"
+    "example.js",
+    "lib/1.js",
+    "lib/other/2.js"
   ]
 }
